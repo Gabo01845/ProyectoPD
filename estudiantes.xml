@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escuela>
+    <estudiante>
+        <numControl>12345</numControl>
+        <nombre>Juan Pérez</nombre>
+        <edad>20</edad>
+        <carrera>Ingeniería en Sistemas</carrera>
+        <correo>juan.perez@mail.com</correo>
+    </estudiante>
+    <estudiante>
+        <numControl>23456</numControl>
+        <nombre>María López</nombre>
+        <edad>21</edad>
+        <carrera>Administración</carrera>
+        <correo>maria.lopez@mail.com</correo>
+    </estudiante>
+    <estudiante>
+        <numControl>34567</numControl>
+        <nombre>Carlos Sánchez</nombre>
+        <edad>22</edad>
+        <carrera>Contabilidad</carrera>
+        <correo>carlos.sanchez@mail.com</correo>
+    </estudiante>
+    <!-- Agregar más estudiantes hasta 10 registros -->
+</escuela>
